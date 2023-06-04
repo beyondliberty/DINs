@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>Insulator_P_0043_cbb.jpg</filename>
+	<path>C:\Users\Administrator\OneDrive\桌面\Insulator\images\Insulator_P_0043_cbb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insulator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2707</xmin>
+			<ymin>1278</ymin>
+			<xmax>4967</xmax>
+			<ymax>1904</ymax>
+		</bndbox>
+	</object>
+</annotation>
