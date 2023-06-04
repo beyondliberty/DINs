@@ -34,7 +34,7 @@ The results of the detection of DID based on YOLOv5
 
 
 
-![mask333](C:/Users/Administrator/OneDrive/%E6%A1%8C%E9%9D%A2/GitHub/readme/mask333.png)
+![mask333](./readme/mask333.png)
 
 
 
@@ -44,3 +44,10 @@ The results of Mask-RCNN
 
 ![image-20230604181959318](./readme/image-20230604181959318.png)
 
+
+
+
+
+## Abstract
+
+The insulator anomaly detection based on computer vision is fast, high-precision, standardized, and less expensive than manual detection, especially for massive inspection work. Nevertheless, public datasets are scarce and lack variety hampering research progress. Achieving industrial-grade accuracy in inspection still has a long way to go due to the scarcity of insulator datasets with actual complex scenes. We construct a comprehensive beyond the current insulator dataset – the Diverse Insulator Dataset (DID). DID has 1182 original insulator images containing three insulator types, i.e., porcelain, glass, and composite. The 3121 bounding box annotations for object detection, the 1091 masks for instance segmentation, and the defects on insulators are also in the dataset. We show that DID is much more scale and diversity than the current image datasets. Eventually, we illustrate the usefulness of DID through applications with 95.05\% mAP of object detection and 95.05\% mAP of instance segmentation. We also discuss the effective augmentation methods for insulators.
