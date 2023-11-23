@@ -10,11 +10,11 @@ DINs has 1182 original insulator images containing three insulator types.
 
 The 3121 bounding box annotations for object detection, the 1091 masks for instance segmentation, and the defects on insulators are  in the dataset. ***VOC*** meant that it was labeled in PASCAL VOC format while ***Mask*** represented that it only had mask marking information.  ***VOC***  contains defects, and the defects are augmented. We do not make defect masks.
 
-![image-20230604150827054](./readme/image-20230604150827054.png )
+![image-20230604150827054](./readme/information.png )
 
 ### Compared with other datasets
 
-![image-20230604163627327](./readme/image-20230604163627327.png)
+![image-20230604163627327](./readme/compare.png)
 
 ### VOC
 
@@ -22,7 +22,7 @@ The 3121 bounding box annotations for object detection, the 1091 masks for insta
 
 The results of the detection of DID 
 
-![image-20230605113153331](./readme/image-20230605113153331.png)
+![image-20230605113153331](./readme/ob.png)
 
 Visualization based on YOLOv5
 
@@ -52,7 +52,7 @@ Visualization based on YOLOv5
 
 The results of the instance segmentation of DID.
 
-![image-20230605114210006](./readme/image-20230605114210006.png)
+![image-20230605114210006](./readme/seg.png)
 
  
 
