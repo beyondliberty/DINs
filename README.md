@@ -1,4 +1,4 @@
-# DID
+# DINs
 
 This is the  Diverse Insulator Dataset (DID).  It is based on publicly available images of insulators. The complete dataset is available at https://drive.google.com/*/***
 
