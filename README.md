@@ -1,6 +1,6 @@
 # DINs
 
-This is the  Diverse Insulator Dataset (DINs).  It is based on publicly available images of insulators. The complete dataset is available at https://drive.google.com/file/d/11VsCn1qJ45ecMvw0lNIF0WL4fo4bn9Zs/view?usp=sharing
+This is the  Diverse Insulator Dataset (DINs).  It is based on publicly available images of insulators. The complete dataset is available at 
 
 ## Properties
 
@@ -13,7 +13,7 @@ The 3121 bounding box annotations for object detection, the 1091 masks for insta
 
 ### Compared with other datasets
 
-![image-20230604163627327](./readme/compare.png)
+
 
 ### VOC
 
