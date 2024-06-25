@@ -6,11 +6,10 @@ This is the  Diverse Insulator Dataset (DINs).  It is based on publicly availabl
 
 DINs has 1182 original insulator images containing three insulator types.
 
-![image-20230604113527318](./readme/image-20230604113527318.png)
+![image-20230604113527318](./readme/image-20230604113527318.pn
 
 The 3121 bounding box annotations for object detection, the 1091 masks for instance segmentation, and the defects on insulators are  in the dataset. ***VOC*** meant that it was labeled in PASCAL VOC format while ***Mask*** represented that it only had mask marking information.  ***VOC***  contains defects, and the defects are augmented. We do not make defect masks.
 
-![image-20230604150827054](./readme/information.png )
 
 ### Compared with other datasets
 
