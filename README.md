@@ -4,7 +4,7 @@ This is the  Diverse Insulator Dataset (DINS).  It is based on publicly availabl
 
 ## Properties
 
-![image-20230604113527318](./image/types.png)DINs contains three types of insulators: composite, glass, and porcelain insulators. There are over twenty-five thousand bounding boxes for object detection and nine thousand masks for instance segmentation. 
+![image-20230604113527318](./image/types.png)DINS contains three types of insulators: composite, glass, and porcelain insulators. There are over twenty-five thousand bounding boxes for object detection and nine thousand masks for instance segmentation. 
 
 ![](./image/din.png)
 
