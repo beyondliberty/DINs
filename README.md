@@ -1,6 +1,6 @@
 # DINS
 
-This is the  Diverse Insulator Dataset (DINs).  It is based on publicly available images of insulators. [Click here to download.](#Download_link)
+This is the  Diverse Insulator Dataset (DINS).  It is based on publicly available images of insulators. [Click here to download.](#Download_link)
 
 ## Properties
 
