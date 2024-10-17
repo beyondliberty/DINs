@@ -8,7 +8,7 @@ This is the  Diverse Insulator Dataset (DINS).  It is based on publicly availabl
 
 ![](./image/din.png)
 
-Compared to other public insulator datasets, DINs provides a diverse set of image data, including various types of insulators, varied image resolution, and backgrounds that more accurately reflect the actual working conditions of insulators.
+Compared to other public insulator datasets, DINS provides a diverse set of image data, including various types of insulators, varied image resolution, and backgrounds that more accurately reflect the actual working conditions of insulators.
 
 ![./image/types.png](./image/compare.png)
 
@@ -18,7 +18,7 @@ DINS consists of two parts: ***VOC*** and ***Mask***. The ***VOC*** means that i
 
  We used ***LabelImg***  to label the image with bounding boxes and tested it.
 
-The results of the detection of DINs. 
+The results of the detection of DINS. 
 
 ![](./image/obj.png)
 
@@ -32,7 +32,7 @@ Visualization based on YOLOv8
 
 ![mask333](./image/mask333.png)
 
-The results of the instance segmentation of DINs.
+The results of the instance segmentation of DINS.
 
 ![image-20230605114210006](./image/seg.png)
 
