@@ -1,6 +1,6 @@
 # DINs
 
-This is the  Diverse Insulator Dataset (DINs).  It is based on publicly available images of insulators. [Click here to download.](#./Download link)
+This is the  Diverse Insulator Dataset (DINs).  It is based on publicly available images of insulators. [Click here to download.](#Download_link)
 
 ## Properties
 
@@ -41,7 +41,7 @@ Visualization based on Mask-RCNN.
 ![image-20230604181959318](./image/maskrnn.png)
 
 
-### Download link
+### Download_link
 
 Due to limited cloud storage space, only the complete mask data has been uploaded while the VOC only provides the original unaugmented version.
 
