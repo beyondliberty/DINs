@@ -41,7 +41,7 @@ Visualization based on Mask-RCNN.
 ![image-20230604181959318](./image/maskrnn.png)
 
 
-### [Download link]{#Download link}
+### Download link
 
 Due to limited cloud storage space, only the complete mask data has been uploaded while the VOC only provides the original unaugmented version.
 
