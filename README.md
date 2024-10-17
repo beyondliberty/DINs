@@ -6,7 +6,7 @@ This is the  Diverse Insulator Dataset (DINs).  It is based on publicly availabl
 
 ![image-20230604113527318](./image/types.png)DINs contains three types of insulators: composite, glass, and porcelain insulators. There are over twenty-five thousand bounding boxes for object detection and nine thousand masks for instance segmentation. 
 
-![](.\image\din.png)
+![](./image/din.png)
 
 Compared to other public insulator datasets, DINs provides a diverse set of image data, including various types of insulators, varied image resolution, and backgrounds that more accurately reflect the actual working conditions of insulators.
 
@@ -20,7 +20,7 @@ DINS consists of two parts: ***VOC*** and ***Mask***. The ***VOC*** means that i
 
 The results of the detection of DINs. 
 
-![](.\image\obj.png)
+![](./image/obj.png)
 
 Visualization based on YOLOv8
 
@@ -40,7 +40,8 @@ Visualization based on Mask-RCNN.
 
 ![image-20230604181959318](./image/maskrnn.png)
 
-<h2 id="Download link">Download link</h2>
+
+### [Download link]{#Download link}
 
 Due to limited cloud storage space, only the complete mask data has been uploaded while the VOC only provides the original unaugmented version.
 
